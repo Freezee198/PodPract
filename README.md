@@ -11,4 +11,4 @@
 ![Ход решения](https://github.com/Freezee198/PodPract/blob/master/screen1.JPG?raw=true)
 ![Ход решения](https://github.com/Freezee198/PodPract/blob/master/screen2.JPG?raw=true)
 ![Ход решения](https://github.com/Freezee198/PodPract/blob/master/screen3.JPG?raw=true)
-![Ход решения](https://github.com/Freezee198/PodPract/blob/master/screen1.JPG?raw=true)
+![Ход решения](https://github.com/Freezee198/PodPract/blob/master/screen4.JPG?raw=true)
