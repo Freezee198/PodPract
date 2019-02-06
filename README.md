@@ -8,4 +8,7 @@
 #### В корневой директории создайте папку с workspace-ом (название произвольно). Затем создайте один компилируемый с помощью catkin_make пакет (название произвольно).
 ---
 ### Решение:
-![создание нужной директории]()
+![Ход решения](https://github.com/Freezee198/PodPract/blob/master/screen1.JPG?raw=true)
+![Ход решения](https://github.com/Freezee198/PodPract/blob/master/screen2.JPG?raw=true)
+![Ход решения](https://github.com/Freezee198/PodPract/blob/master/screen3.JPG?raw=true)
+![Ход решения](https://github.com/Freezee198/PodPract/blob/master/screen1.JPG?raw=true)
